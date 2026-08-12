@@ -55,10 +55,29 @@ Metrics such as ROAS, CAC, AOV, conversion rate, repeat-customer rate,gross marg
 
 ## **🧰C. Tools & Technologies**
 ---
+          
 
-Technology                Purpose
+SQLite    
 
-SQLite                Relational database and SQL executionSQL                   Data modeling, KPI calculations and analyticsPython                Local dashboard and application logicHTML/CSS/JavaScript   Dashboard interface and interactivityCSV                   Portable source-data exportsGit & GitHub          Version control and publishing
+Relational database and SQL executionSQL        
+
+Data modeling, 
+
+KPI calculations and analytics
+
+Python         
+
+Local dashboard and application logic
+
+HTML/CSS/JavaScript   
+
+Dashboard interface and interactivity CSV    
+
+Portable source-data exports
+
+Git & GitHub        
+
+Version control and publishing
 
 
 <img width="1919" height="931" alt="Screenshot 2026-08-12 011340" src="https://github.com/user-attachments/assets/649eb894-ec39-4a6d-8207-98463720c63a" />

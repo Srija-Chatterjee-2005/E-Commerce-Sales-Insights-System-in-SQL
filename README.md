@@ -522,10 +522,10 @@ The combination of a pre-built analytical Query Library and acustom read-only SQ
 ## **👩‍💻U. Author**
 ---
 
-**Srija Chatterjee**
+### **Srija Chatterjee**
 
 GitHub: https://github.com/Srija-Chatterjee-2005
 
-LinkedIn: [Add LinkedIn Profile URL]
+LinkedIn: https://www.linkedin.com/in/srija-chatterjee-82a539308?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
 ---
